@@ -30,7 +30,6 @@ parse_config:
     "&dot_spc": Sentence
     "&num_dance": { "t": "Numword", "s": "Sticky Num" }
     "&magic_shift": { "t": Magic, "h": "Shift" }
-    "&smart_mouse": Smart Mouse
 
     "&hml LS(LALT)TAB": Tab
     "&hm_combo_ldr": Leader
